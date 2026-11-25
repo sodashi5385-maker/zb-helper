@@ -1,12 +1,21 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "2026-11-25",
   "notes": [
-    "템트리 크기 조절 (설정의 슬라이더, 60~160%)"
+    "고른 증강 오인식 수정: 카드 아래 새로고침 버튼 클릭을 고른 것으로 착각하던 문제",
+    "같은 선택을 두 번 세던 문제 수정"
   ],
   "url": "https://github.com/sodashi5385-maker/zb-helper/raw/main/ZBHelper.zip",
   "page": "https://zb-stats.onrender.com/#/download",
   "history": [
+    {
+      "version": "1.3.3",
+      "date": "2026-11-25",
+      "notes": [
+        "고른 증강 오인식 수정: 카드 아래 새로고침 버튼 클릭을 고른 것으로 착각하던 문제",
+        "같은 선택을 두 번 세던 문제 수정"
+      ]
+    },
     {
       "version": "1.3.2",
       "date": "2026-11-25",
